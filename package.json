@@ -10,7 +10,7 @@
   "dependencies": {
     "@types/diff": "^7.0.0",
     "@types/wicg-file-system-access": "^2023.10.5",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "highlight.js": "^11.11.1",
     "webjsx": "^0.0.70"
   },
